@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108247682714",
+    "project_id": "desafio4digitalhouse-yuri",
+    "storage_bucket": "desafio4digitalhouse-yuri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108247682714:android:17fd4a92493c5b0ec0d923",
+        "android_client_info": {
+          "package_name": "com.example.desafio4digitalhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108247682714-hqukoiidc20dho25vqn1c44nck348prm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rZvBJJzKzVY_CpKa6gRqxZyG21x4ncc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108247682714-hqukoiidc20dho25vqn1c44nck348prm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
